@@ -8,9 +8,9 @@ This is a free Auto Sentence completion script made using the famous OpenAI's GP
                 
 Just Navigate to this Link: https://colab.research.google.com/github/CrazyCoder009/Para-Writer-GPT-2/blob/master/Text_Generator_GPT_2.ipynb
 
-2. Enter your text between " " in the last cell and run all the cells one-by-one from top to bottom.
+2. Enter your text between **" "** in the last cell and run all the cells one-by-one from top to bottom.
 
-
+![ttgen.png]
 
 
 ### RRN 
