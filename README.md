@@ -10,7 +10,7 @@ Just Navigate to this Link: https://colab.research.google.com/github/CrazyCoder0
 
 2. Enter your text between **" "** in the last cell and run all the cells one-by-one from top to bottom.
 
-![Image 1](ttgen.png)
+![Image 1](ttgen2.png)
 
 
 ### RRN 
