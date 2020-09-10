@@ -12,7 +12,3 @@ Just Navigate to this Link: https://colab.research.google.com/github/CrazyCoder0
 
 ![Image 1](ttgen2.png)
 
-
-### RRN 
-### www.github.com/CrazyCoder009
-
